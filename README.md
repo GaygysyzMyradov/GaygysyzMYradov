@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<--
-
-**GaygysyzMyradov/GaygysyzMYradov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Gaýgysyz Myradov!
 
 I am a Senior Computer Science student in Xiamen University Malaysia. Currently, I individually work as a front-end web developer with intermediate skill level on CSS and HTML. I´m based in Kuala Lumpur, Malaysia.
@@ -28,9 +10,7 @@ Currently improving my Front-End development skills, especially Javascript and R
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](www.linkedin.com/in/gaygysyzmyradov](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  
 
-
-**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
-
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GaygysyzMyradov)](https://twitter.com/GaygysyzMyradov)
 
