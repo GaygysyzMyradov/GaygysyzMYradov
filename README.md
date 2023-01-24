@@ -4,7 +4,7 @@ I am a Senior Computer Science student in Xiamen University Malaysia. Currently,
 
 My journey to Programming and Coding started back in my secondary school and since then I have been living and breathing coding, well mixture of coding and university courses. Although my GitHub profile is fairly new and empty, I am planning to use it as active as possible and add more repos in the near future as I continue my journey on Web Development. 
 
-### What I'm focusing on 👨‍💻
+### What I'm currently learning 👨‍💻
 
   - Front-End development, especially Javascript and ReactJS.
   - Responsiveness of a Website.
