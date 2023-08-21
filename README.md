@@ -6,9 +6,9 @@ My journey to Programming and Coding started back in my secondary school and sin
 
 ### What I'm currently learning 👨‍💻
 
-  - Front-End development, especially Javascript and ReactJS.
+  - Front-End development, especially Javascript and TypeScript.
   - Responsiveness of a Website.
-  - Back-End development using PHP.
+  - Back-End development using.
 
 ### Find me elsewhere 🌎
 
