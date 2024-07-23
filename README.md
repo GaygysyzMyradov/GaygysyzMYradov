@@ -8,7 +8,7 @@ My journey to Programming and Coding started back in my secondary school and sin
 
   - Front-End development, especially Javascript and TypeScript.
   - Responsiveness of a Website.
-  - Back-End development using.
+  - Back-End development.
 
 ### Find me elsewhere 🌎
 
